@@ -38,7 +38,7 @@ while True:
             },
             {"role": "user", "content": resposta}
         ],
-        temperature=0.2,
+        temperature=1.0,
         max_tokens=1350
     )
 
